@@ -1,0 +1,88 @@
+[33mcommit 76d52ca495dcfb96abda44c3b7716a67fd171508[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Gajjender <rathoregajjender2018@gmail.com>
+Date:   Fri Oct 9 10:04:11 2020 +0530
+
+    Family Commit
+
+[33mcommit eefadacdd6bfa884b9a2fe43c0575203c5e20366[m[33m ([m[1;31morigin/master[m[33m)[m
+Author: Gajjender <rathoregajjender2018@gmail.com>
+Date:   Fri Oct 9 08:03:34 2020 +0530
+
+    added git ignore
+
+[33mcommit 5cf1f4de9e4e6a2679db5eb731c3f42bbd298c3c[m
+Author: Gajjender <47150984+Gajjender@users.noreply.github.com>
+Date:   Fri Oct 9 07:58:07 2020 +0530
+
+    Create Readme.md
+
+[33mcommit a13448f424cc54619a7d31db03ea97d5e09f6933[m
+Merge: 17a47e8 a390744
+Author: Gajjender <47150984+Gajjender@users.noreply.github.com>
+Date:   Fri Oct 9 07:50:53 2020 +0530
+
+    Merge pull request #1 from Gajjender/dev
+    
+    new Change in dev branch
+
+[33mcommit a3907445220ede492bb15e57a135557efa0e9e0a[m[33m ([m[1;31morigin/dev[m[33m, [m[1;32mdev[m[33m)[m
+Author: Gajjender <rathoregajjender2018@gmail.com>
+Date:   Fri Oct 9 07:40:29 2020 +0530
+
+    new Change
+
+[33mcommit 17a47e81fe062118ede52c98dda4c69059beff58[m[33m ([m[1;32ma[m[33m)[m
+Merge: 318b4a1 0be72ec
+Author: Gajjender <rathoregajjender2018@gmail.com>
+Date:   Thu Oct 8 17:02:48 2020 +0530
+
+    Merge branch 'family' into master
+
+[33mcommit 318b4a101e3088794dc3333fe12318cd46079a1c[m
+Merge: e9bee85 80d80cb
+Author: Gajjender <rathoregajjender2018@gmail.com>
+Date:   Thu Oct 8 17:02:02 2020 +0530
+
+    Merging Commit
+
+[33mcommit 0be72ec891a1dceeb944cfc182fed948996ef18d[m[33m ([m[1;32mfamily[m[33m)[m
+Author: Gajjender <rathoregajjender2018@gmail.com>
+Date:   Thu Oct 8 16:54:37 2020 +0530
+
+    Family Commit
+
+[33mcommit 80d80cbfa9642f1acf8344347b2cbdfaae327a57[m
+Author: Gajjender <rathoregajjender2018@gmail.com>
+Date:   Thu Oct 8 16:48:27 2020 +0530
+
+    Final Commit
+
+[33mcommit e9bee85f8e8301f4d4c1f2f11081d77c84900a07[m
+Author: Gajjender <rathoregajjender2018@gmail.com>
+Date:   Thu Oct 8 16:43:35 2020 +0530
+
+    Hello Commit
+
+[33mcommit b07817876801102a980d0900c414e1d10798a3c8[m
+Author: Gajjender <rathoregajjender2018@gmail.com>
+Date:   Thu Oct 8 16:37:57 2020 +0530
+
+    dev branch change 1
+
+[33mcommit 05c75bbd4cc5efe5db0d969a4e87aab510677487[m
+Author: Gajjender <rathoregajjender2018@gmail.com>
+Date:   Thu Oct 8 16:24:35 2020 +0530
+
+    Second Commit
+
+[33mcommit 1524ee3f47ef526192edac4c7b9d2566c3140e43[m
+Author: Gajjender <rathoregajjender2018@gmail.com>
+Date:   Thu Oct 8 16:11:18 2020 +0530
+
+    Developer Commit
+
+[33mcommit b1bf8ab968a5426d71e8c3ebd1231c92535f1d0a[m
+Author: Gajjender <rathoregajjender2018@gmail.com>
+Date:   Thu Oct 8 16:05:15 2020 +0530
+
+    Initial Commit
