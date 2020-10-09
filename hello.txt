@@ -1,3 +1,8 @@
 print("Hello World")
 print("Gajjender Rathore")
+<<<<<<< HEAD
 print("In dev Branch")
+=======
+print("In dev Branch")
+print("Switched to Dev")
+>>>>>>> dev
